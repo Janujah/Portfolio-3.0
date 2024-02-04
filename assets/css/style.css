@@ -1207,3 +1207,7 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+.dark-mode{
+  background-color: #111;
+  color: #ffffff;
+}
